@@ -11,7 +11,7 @@ namespace InsuranceManagementSystem.util
         static PropertyUtil()
         {
             properties = new Dictionary<string, string>();
-            LoadProperties("util/db.properties");
+            LoadProperties("C:\\Users\\AMMA\\source\\repos\\InsuranceManagementSystem\\util\\appsettings.json");
         }
 
         private static void LoadProperties(string filePath)

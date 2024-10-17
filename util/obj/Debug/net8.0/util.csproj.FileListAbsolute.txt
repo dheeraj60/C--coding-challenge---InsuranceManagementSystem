@@ -1,0 +1,14 @@
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\bin\Debug\net8.0\util.deps.json
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\bin\Debug\net8.0\util.dll
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\bin\Debug\net8.0\util.pdb
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\util.csproj.AssemblyReference.cache
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\util.AssemblyInfoInputs.cache
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\util.AssemblyInfo.cs
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\util.csproj.CoreCompileInputs.cache
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\util.sourcelink.json
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\util.dll
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\refint\util.dll
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\util.pdb
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\obj\Debug\net8.0\ref\util.dll
+C:\Users\AMMA\source\repos\InsuranceManagementSystem\util\bin\Debug\net8.0\appsettings.json

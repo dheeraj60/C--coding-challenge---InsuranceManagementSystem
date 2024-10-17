@@ -5,7 +5,7 @@ namespace InsuranceManagementSystem.util
 {
     public class DBConnection
     {
-        // Directly set the connection string here
+        // Directly set the connection string here[Just tried a new method mam, nothing else]
         private static string connectionString = "Server=LAPTOP-E8Q2MF96\\SQLEXPRESS;Database=InsuranceManagementDB;Trusted_Connection=True;";
 
         public static SqlConnection GetConnection()
